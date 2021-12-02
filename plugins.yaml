@@ -24,3 +24,4 @@ plugins:
 - id: workflow-aggregator
 - id: workflow-cps-checkpoint
 # non-cap plugins
+- id: cloudbees-restricted-credentials
